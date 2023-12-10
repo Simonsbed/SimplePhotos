@@ -1,5 +1,5 @@
 # SimplePhotos
-// 주의 Microsoft.Graphics.Win2D를 설치하지 않고 실행하면 배포오류가 뜰수도 있음<br/>
+    주의 Microsoft.Graphics.Win2D를 설치하지 않고 실행하면 배포오류가 뜰수도 있음<br/>
  1단계: Windows App SDK용 도구 설치<br/>
  2단계: 새 프로젝트 만들기 <br/>
  3단계: 자산 파일 복사 <br/>
